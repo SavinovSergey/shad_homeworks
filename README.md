@@ -1,4 +1,4 @@
-# shad_homeworks
+# ysda_homeworks
 
 This repository contains my homework notebooks on the wonderful YSDA NLP [course](https://github.com/yandexdataschool/nlp_course/tree/2025).
 # Description
